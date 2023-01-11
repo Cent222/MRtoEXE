@@ -18,7 +18,7 @@ No need to install Java. Just download and have fun.
 
 ## Which client should I use?
 
-If the official client works fine for you, always choose to use the official Mirage client downloaded directly from the [website]((https://www.miragerealms.co.uk/devblog/play/)).
+If the official client works fine for you, always choose to use the official Mirage client downloaded directly from the [website](https://www.miragerealms.co.uk/devblog/play/).
 
 If you find yourself in any of the situations listed below, give this launcher a try.
 
